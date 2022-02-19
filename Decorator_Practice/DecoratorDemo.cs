@@ -1,4 +1,10 @@
-﻿using System;
+﻿/* Name: Colin Weatherly
+ * Date: 2/18/2022
+ * File: DecoratorDemo.cs
+ * IDE: Visual Studio 2019
+ */
+
+using System;
 
 namespace Decorator_Practice
 {
